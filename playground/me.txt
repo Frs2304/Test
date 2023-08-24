@@ -1,0 +1,54 @@
+Tushar Mishra
+Pune, Maharashtra | +91 7040324005
+tusharmishra2304@gmail.com
+
+Experience:
+Hashnode
+Blogger | 01/2023 - Present
+
+Experienced software tech blogger with a talent for translating complex concepts into captivating and informative content.
+Social(Formally Script Foundation)
+Fellow | 03/2023 - 04/2023
+Hacktoberfest 2022
+Open-Source Contributor | 10/2022 - 10/2022
+
+Contributed to various C++, Python open-source projects.
+College Ranker | Maharashtra, Pune
+Web Development Intern | 07/2022 - 08/2022
+
+Skills:
+JavaScript, Next.js, MongoDB, Express.js, React.js, Node.js, HTML, CSS, Docker, C++, Blogging, Time Management, Communication skills
+
+Education:
+G.H Raisoni College of Engineering and Management | Pune, Maharashtra
+Computer Science Engineering | 06/2024
+
+CGPA: 7.43
+Projects
+
+ReadmeCli - ReadmeCli is an interactive command-line app built using Node.js which can generate GitHub readme file effortlessly using CLI.
+
+Link -https://github.com/Frs2304/ReadmeCli 
+
+CoinSense - CoinSense is a cryptocurrency tracker app built with React.js and integrated with the CoinCap API. It allows users to view real-time information and statistics about various cryptocurrencies.
+
+Link - https://coinsensecrypto.netlify.app/
+
+DevHub - DevHub is a React.js-based code editor designed for efficient programming and development. 
+Link - https://devhubide.netlify.app/
+
+Profile Links
+
+GitHub Profile: https://www.github.com/Frs2304
+
+LinkedIn Profile: https://www.linkedin.com/in/tushar-mishra-858765217
+
+Hashnode Profile: https://www.tushar.mishra.hashnode.dev
+
+Certificates
+HTML CSS JavaScript for Web Developers - Coursera, React Advance - Meta
+Achievements
+
+Hacktoberfest 2022 -
+
+Stood among the top 40k open source contributors and successfully won the Hacktoberfest 2022.
